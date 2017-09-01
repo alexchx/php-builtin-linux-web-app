@@ -1,8 +1,12 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
+<<<<<<< HEAD
 
 
+=======
+ 
+>>>>>>> bfe7a34bf9d9ef1c9117056d0fbb9febcc2e81d5
 <!DOCTYPE html>
 <html lang="en">
 <head>
