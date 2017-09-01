@@ -13,6 +13,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
   <script src="<?php echo base_url();?>/js/bootstrap.min.js"></script>  
   <script src="<?php echo base_url();?>/js/modernizr-2.6.2.js"></script>
   <link rel="stylesheet" type="text/css" href="<?php echo base_url();?>/css/jumbotron.css">
+  <link href="http://amp.azure.net/libs/amp/2.1.2/skins/amp-default/azuremediaplayer.min.css" rel="stylesheet">
+  <script src="http://amp.azure.net/libs/amp/2.1.2/azuremediaplayer.min.js"></script>
 </head>
 <body>
 
