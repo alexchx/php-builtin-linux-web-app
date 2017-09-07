@@ -43,12 +43,14 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 <div class="container">
     <h1 class="text-center v-center" style="padding-bottom:20px">Get started with Web App on Linux</h1>
 </div>
-<div class="ams-video-wrapper text-center">
-    <video width="640" height="400" class="azuremediaplayer amp-default-skin amp-big-play-centered" controls poster="//azurecomcdn.azureedge.net/mediahandler/files/videofiles/thumbnails/web-app-for-containers-overview/Azure_WebAppForContainers_thumb_1440x810.jpg" data-setup="{&quot;language&quot;:&quot;en&quot;,&quot;plugins&quot;:{&quot;analytics&quot;:{&quot;videoId&quot;:&quot;web-app-for-containers-overview&quot;,&quot;autoplay&quot;:false,&quot;name&quot;:&quot;Web App for Containers overview&quot;,&quot;eventsToTrack&quot;:[&quot;playTime&quot;,&quot;start&quot;,&quot;end&quot;,&quot;play&quot;,&quot;pause&quot;,&quot;error&quot;,&quot;seek&quot;,&quot;buffering&quot;,&quot;percentsPlayed&quot;]}}}">
-        <source src="https://onyxmediacdn-onyxmedia.streaming.mediaservices.windows.net/a9b1b128-d5d3-45a1-a1b8-6c39aa4e8bf2/web-app-for-containers-overview.ism/manifest" type="application/vnd.ms-sstr+xml" />
-        <track kind="subtitles" src="https://onyxmediacdn-onyxmedia.streaming.mediaservices.windows.net/a9b1b128-d5d3-45a1-a1b8-6c39aa4e8bf2/web-app-for-containers-overview_en-us.vtt" srclang="en" label="English (US)">
-        <p class="amp-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video.</p>
-    </video>
+<div class="container text-center">
+    <div class="ams-video-wrapper text-center">
+        <video width="640" height="400" class="azuremediaplayer amp-default-skin amp-big-play-centered" controls poster="//azurecomcdn.azureedge.net/mediahandler/files/videofiles/thumbnails/web-app-for-containers-overview/Azure_WebAppForContainers_thumb_1440x810.jpg" data-setup="{&quot;language&quot;:&quot;en&quot;,&quot;plugins&quot;:{&quot;analytics&quot;:{&quot;videoId&quot;:&quot;web-app-for-containers-overview&quot;,&quot;autoplay&quot;:false,&quot;name&quot;:&quot;Web App for Containers overview&quot;,&quot;eventsToTrack&quot;:[&quot;playTime&quot;,&quot;start&quot;,&quot;end&quot;,&quot;play&quot;,&quot;pause&quot;,&quot;error&quot;,&quot;seek&quot;,&quot;buffering&quot;,&quot;percentsPlayed&quot;]}}}">
+            <source src="https://onyxmediacdn-onyxmedia.streaming.mediaservices.windows.net/a9b1b128-d5d3-45a1-a1b8-6c39aa4e8bf2/web-app-for-containers-overview.ism/manifest" type="application/vnd.ms-sstr+xml" />
+            <track kind="subtitles" src="https://onyxmediacdn-onyxmedia.streaming.mediaservices.windows.net/a9b1b128-d5d3-45a1-a1b8-6c39aa4e8bf2/web-app-for-containers-overview_en-us.vtt" srclang="en" label="English (US)">
+            <p class="amp-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video.</p>
+        </video>
+    </div>
 </div>
 <div class="container">
         <div class="row flex text-center">
