@@ -1,12 +1,7 @@
 <?php
 defined('BASEPATH') OR exit('No direct script access allowed');
 ?>
-<<<<<<< HEAD
 
-
-=======
- 
->>>>>>> bfe7a34bf9d9ef1c9117056d0fbb9febcc2e81d5
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -47,12 +42,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 </div>
 <div class="container">
     <h1 class="text-center v-center" style="padding-bottom:20px">Get started with Web App on Linux</h1>
-</div>
-<div class="container text-center">
-  <video id="vid1" class="azuremediaplayer amp-default-skin" controls="" autoplay="" name="media" width="640" height="400">
-    <source src="http://amssamples.streaming.mediaservices.windows.net/2e91931e-0d29-482b-a42b-9aadc93eb825/AzurePromo.mp4" type="video/mp4">
-    <p class="amp-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video</p>
-  </video>
 </div>
 <div class="container">
         <div class="row flex text-center">
