@@ -51,6 +51,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
             <p class="amp-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that supports HTML5 video.</p>
         </video>
     </div>
+    <p></p>
 </div>
 <style>
 .ams-video-wrapper {
